@@ -10,7 +10,6 @@ Murat Yücedağ eğitmenliğinde gerçekleştirilen C# Eğitim Kampı süresince
 
 İkinci projemizde konumuz değişkenlerdi. String,double,int,char gibi değişkenleri öğrendim. Klavyeden veri girişlerini ve dönüştürmelerini öğrendim(int.parse gibi).Yaptığımız uygulamarı dersten sonra kendimde yaptım.
 
-
 :world_map:  **Proje 3: Karar Yapıları**
 
 Üçüncü projemizde konumuz Karar Yapılarıydı. If else ve Switch Case yapılarını öğrendim. Her iki karar yapılarıyla örnekler yaptık. Hocamızı dinledikten sonra yaptığımız uygulamaları kendim tekrar yaptım.
