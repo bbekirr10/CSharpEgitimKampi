@@ -20,15 +20,23 @@ Murat Yücedağ eğitmenliğinde gerçekleştirilen C# Eğitim Kampı süresince
 Dördüncü projemizde ise Döngüler konusuna giriş yaptık. For ve While döngüsünü öğrendim. Döngülerle karar yapılarını beraber nasıl kullanılacağımı öğrendim. 
 
 
-:world_map:PROJE5: Beşinci projemizde döngüler konusunu pekiştirmeye devam ettik. Döngüleri kullanarak ekrana yıldızlar üçgenler çizdirmeyi öğrendim bu ders biraz anlamakta zorluk çektim ama tekrar dinleyince kafama konu iyice oturdu.
+:world_map:  **Proje 5:Döngüler ile Yıldız Çizimi**
+
+Beşinci projemizde döngüler konusunu pekiştirmeye devam ettik. Döngüleri kullanarak ekrana yıldızlar üçgenler çizdirmeyi öğrendim bu ders biraz anlamakta zorluk çektim ama tekrar dinleyince kafama konu iyice oturdu.
 
 
-:world_map:PROJE6: Altıncı projemizde ise konumuz Dizilerdi. Diziler ile döngülerin beraber kullanımını öğrendim.
+:world_map:  **Proje 6:Diziler**
+
+Altıncı projemizde ise konumuz Dizilerdi. Diziler ile döngülerin beraber kullanımını öğrendim.
 
 
-:world_map:PROJE7: Yedinci projemiz Foreach döngüsüydü. Foreach döngüsü ile dizilerin kullanımını öğrenmiş oldum. Yaptığımz Örnek Sınav Sistemi Uygulaması ile konu daha anlaşılır oldu benim için.
+:world_map:  **Proje 7:Foreach Döngüsü**
+
+Yedinci projemiz Foreach döngüsüydü. Foreach döngüsü ile dizilerin kullanımını öğrenmiş oldum. Yaptığımz Örnek Sınav Sistemi Uygulaması ile konu daha anlaşılır oldu benim için.
 
 
-:world_map:PROJE8: Sekizinci projemiz ise Metotlardı. Geriye Değer Döndürmeyen Metotlar,Geriye Değer Döndüren Metotlar ve metotları parametre kullanarak çağırmayı öğrendim.
+:world_map:  **Proje 8:Metotlar** 
+
+Sekizinci projemiz ise Metotlardı. Geriye Değer Döndürmeyen Metotlar,Geriye Değer Döndüren Metotlar ve metotları parametre kullanarak çağırmayı öğrendim.
 
 
