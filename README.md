@@ -3,11 +3,11 @@ Murat Yücedağ eğitmenliğinde gerçekleştirilen C# Eğitim Kampı süresince
 
 :world_map: **Proje 1:  Merhaba Dünya!**
 
- İlk projemizde console.write() ve console.writline() komutlarıyla console ekranına yazdırma işlemlerini öğrendim ve dersi dinledikten sonra aynı uygulamarını yaptım.
+ İlk projemizde console.write() ve console.writline() komutlarıyla console ekranına yazdırma işlemlerini öğrendim ve dersi dinledikten sonra uygulamaları tekrarladım.
 
 :world_map: **Proje 2: Değişkenler**
 
-İkinci projemizde konumuz değişkenlerdi. String,double,int,char gibi değişkenleri öğrendim.  Klavyeden veri girişlerini ve dönüştürmelerini öğrendim(int.parse gibi).Yaptığımız uygulamarı dersten sonra kendimde yaptım.
+İkinci projemizde konumuz değişkenlerdi. String,double,int,char gibi değişkenleri öğrendim. Klavyeden veri girişlerini ve dönüştürmelerini öğrendim(int.parse gibi).Yaptığımız uygulamarı dersten sonra kendimde yaptım.
 
 
 :world_map:  **Proje 3: Karar Yapıları**
@@ -22,7 +22,7 @@ Dördüncü projemizde ise Döngüler konusuna giriş yaptık. For ve While dön
 
 :world_map:  **Proje 5: Döngüler ile Yıldız Çizimi**
 
-Beşinci projemizde döngüler konusunu pekiştirmeye devam ettik. Döngüleri kullanarak ekrana yıldızlar üçgenler çizdirmeyi öğrendim bu ders biraz anlamakta zorluk çektim ama tekrar dinleyince kafama konu iyice oturdu.
+Beşinci projemizde döngüler konusunu pekiştirmeye devam ettik. Döngüleri kullanarak ekrana yıldızlar, üçgenler çizdirmeyi öğrendim bu ders biraz anlamakta zorluk çektim ama tekrar dinleyince kafama konu iyice oturdu.
 
 
 :world_map:  **Proje 6: Diziler**
