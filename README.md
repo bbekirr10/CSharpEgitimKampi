@@ -1,6 +1,6 @@
 :world_map: **C# EĞİTİM KAMPI PROJELERİ**
 
-Murat Yücedağ eğitmenliğinde gerçekleştirilen C# Eğitim Kampı süresince tamamladığım ilk 8 proje.
+Murat Yücedağ eğitmenliğinde gerçekleştirilen C# Eğitim Kampı süresince tamamladığım ilk 8 proje.Her projenin açıklamalarını aşağıda bulabilirsiniz.
 
 :world_map: **Proje 1:  Merhaba Dünya!**
 
