@@ -1,5 +1,7 @@
 C# EĞİTİM KAMPI PROJELERİ
 Murat Yücedağ eğitmenliğinde gerçekleştirilen C# Eğitim Kampı süresince tamamladığım ilk 8 proje.
+
+
 #PROJE1: İlk projemizde console.write() ve console.writline() komutlarıyla console ekranına yazdırma işlemlerini öğrendim ve dersi dinledikten sonra aynı uygulamarını yaptım.
 PROJE2: İkinci projemizde konumuz değişkenlerdi. String,double,int,char gibi değişkenleri öğrendim.  Klavyeden veri girişlerini ve dönüştürmelerini öğrendim(int.parse gibi).Yaptığımız uygulamarı dersten sonra kendimde yaptım.
 PROJE3: Üçüncü projemizde konumuz Karar Yapılarıydı. If else ve Switch Case yapılarını öğrendim. Her iki karar yapılarıyla örnekler yaptık. Hocamızı dinledikten sonra yaptığımız uygulamaları kendim tekrar yaptım.
